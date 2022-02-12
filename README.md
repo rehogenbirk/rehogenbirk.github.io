@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my blog
 
-You can use the [editor on GitHub](https://github.com/rehogenbirk/rehogenbirk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I created this blog to write articles about things that interest me and to create documentation to use.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Personal Todo List
+
+- Turn this website into the blog format
+- Write an article about the rules of mahjong
+- Write an article about the rules of go
 
 ### Markdown
 
